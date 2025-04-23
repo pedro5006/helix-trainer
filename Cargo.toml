@@ -5,3 +5,4 @@ edition = "2021"
 description = "🎮 Master Helix editor keybindings through interactive practice. Scenarios, arcade mode, quests & streaks. Build muscle memory the fun way."
 # handle the edge case from the last release
 # handle the edge case from the last release
+# guard against empty input
