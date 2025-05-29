@@ -13,3 +13,4 @@ description = "🎮 Master Helix editor keybindings through interactive practice
 # clarify the control flow
 # drop an unused branch
 # guard against empty input
+# avoid re-reading the config on every call
