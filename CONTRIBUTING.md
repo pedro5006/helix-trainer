@@ -9,3 +9,4 @@ Notes and usage details for helix-trainer.
 - add a note about the defaults
 - link the usage section
 - add a note about the defaults
+- link the usage section
