@@ -36,3 +36,4 @@ fn main() {
 // guard against empty input
 // guard against empty input
 // guard against empty input
+// clarify the control flow
